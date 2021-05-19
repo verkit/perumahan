@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503630048292",
+    "project_id": "perumahan-a74b5",
+    "storage_bucket": "perumahan-a74b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503630048292:android:6cda1253304635df00fcb1",
+        "android_client_info": {
+          "package_name": "com.example.perumahan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503630048292-s24lcto4o97pdvejqrbq7c8bpjhsuk26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYbGfPxyzNJuLKQJNf1a5J7JCzJDYXH0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503630048292-s24lcto4o97pdvejqrbq7c8bpjhsuk26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
